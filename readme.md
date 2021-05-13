@@ -10,6 +10,17 @@ meant to be a complete version.
 But most importantly, it demonstrates how simple blockchains are. If an idiot
 can write it, anyone can.
 
+## How to start the Automatic Demo
+
+python -i aibit.py
+
+then type the following into Python program:
+
+automatic\_demo()
+
+To exit the tutorial, press Ctrl+C. To exit Python entirely, press Ctrl+C, then
+Ctrl+Z, then Enter.
+
 ## Author
 
 Chawanat NAKASAN <{firstname}@staff.kanazawa-u.ac.jp>, 2021-05-11
